@@ -1,10 +1,3 @@
-# 🎮 Theme 03 - Retro Gamer
-
-## Preview
-
-Copy everything below and replace the placeholders.
-
-````md
 <div align="center">
 
 # 🎮 PLAYER PROFILE 🎮
@@ -17,7 +10,6 @@ Copy everything below and replace the placeholders.
 
 # 👾 Character Card
 
-```text
 ╔══════════════════════════════╗
 ║        PLAYER PROFILE        ║
 ╠══════════════════════════════╣
@@ -27,13 +19,12 @@ Copy everything below and replace the placeholders.
 ║ Guild  : YOUR_TEAM           ║
 ║ Region : YOUR_COUNTRY        ║
 ╚══════════════════════════════╝
-````
 
----
+
+
 
 # ⚔️ Character Stats
 
-```text
 🧠 Intelligence  ██████████ 100%
 
 ⚡ Coding        █████████░ 90%
@@ -43,7 +34,7 @@ Copy everything below and replace the placeholders.
 🚀 Creativity    ████████░░ 80%
 
 🛡️ Linux Skill   █████████░ 90%
-```
+
 
 ---
 
