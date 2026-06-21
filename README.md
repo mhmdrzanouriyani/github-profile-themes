@@ -7,8 +7,8 @@ A collection of beautiful GitHub Profile README templates.
 | Theme | Preview |
 |---------|---------|
 | 🔵 Cyber Blue | [Open Theme](./Theme-01-Cyber-Blue) |
-| 🎮 Retro Gamer | Coming Soon |
-| 💻 Hacker Terminal | Coming Soon |
+| 🎮 Retro Gamer | [Open Theme](./Theme-03-Retro-Gamer) |
+| 💻 Hacker Terminal | [Open Theme](./Theme-02-Hacker-Terminal) |
 | 🚀 Space Explorer | Coming Soon |
 | 🤖 AI Engineer | Coming Soon |
 
