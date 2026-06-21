@@ -1,10 +1,3 @@
-# ⛏️ Theme 04 - Minecraft Developer
-
-## Preview
-
-Copy everything below and replace the placeholders.
-
-````md
 <div align="center">
 
 # ⛏️ MINECRAFT DEVELOPER PROFILE ⛏️
