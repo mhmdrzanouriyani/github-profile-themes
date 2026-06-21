@@ -6,14 +6,11 @@ A collection of beautiful GitHub Profile README templates.
 
 | Theme | Preview |
 |---------|---------|
+| 🔵 Cyber Blue | [Open Theme](./Theme-01-Cyber-Blue) |
 | 🎮 Retro Gamer | Coming Soon |
 | 💻 Hacker Terminal | Coming Soon |
 | 🚀 Space Explorer | Coming Soon |
 | 🤖 AI Engineer | Coming Soon |
-| ⚔️ RPG Character | Coming Soon |
-| 🏴‍☠️ Pirate | Coming Soon |
-| 🌊 Ocean Minimal | Coming Soon |
-| 📊 Dashboard | Coming Soon |
 
 ## How To Use
 
