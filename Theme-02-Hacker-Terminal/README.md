@@ -1,10 +1,3 @@
-# 💻 Theme 02 - Hacker Terminal
-
-## Preview
-
-Copy everything below and replace the placeholders.
-
-````md
 <h1 align="center">💻 TERMINAL MODE ACTIVATED</h1>
 
 <p align="center">
@@ -15,7 +8,6 @@ Copy everything below and replace the placeholders.
 
 ## 🖥️ System Information
 
-```bash
 $ whoami
 YOUR_NAME
 
@@ -32,13 +24,11 @@ $ currently_learning
 Python
 Linux
 Cyber Security
-````
 
 ---
 
 ## ⚡ Skills
 
-```bash
 Python      ████████████ 100%
 
 Linux       ███████████░ 90%
@@ -48,18 +38,15 @@ Networking  ██████████░░ 80%
 Git         ███████████░ 90%
 
 Docker      █████████░░░ 75%
-```
 
 ---
 
 ## 📂 Projects
 
-```bash
 /project-01
 /project-02
 /project-03
 /project-04
-```
 
 ---
 
@@ -69,21 +56,19 @@ Docker      █████████░░░ 75%
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=chartreuse-dark\&hide_border=true)
 
----
+
 
 ## 🔗 Connections
 
-```bash
 GitHub    -> https://github.com/YOUR_USERNAME
 
 LinkedIn  -> https://linkedin.com/in/YOUR_USERNAME
 
 Website   -> https://yourwebsite.com
-```
+
 
 ---
 
-```bash
 root@github:~$ echo "Happy Coding 🚀"
 ```
 
