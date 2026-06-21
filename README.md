@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F7FF,100:0057FF&text=GitHub%20Profile%20Themes&fontSize=45&fontColor=ffffff"/>
