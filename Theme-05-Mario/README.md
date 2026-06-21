@@ -1,10 +1,3 @@
-# 🍄 Theme 05 - Super Mario Developer
-
-## Preview
-
-Copy everything below and replace the placeholders.
-
-````md
 <div align="center">
 
 # 🍄 SUPER MARIO DEVELOPER 🍄
